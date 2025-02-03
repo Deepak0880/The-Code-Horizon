@@ -80,5 +80,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact:-
 For any questions or feedback, feel free to reach out:-
 
-Email:Satwikmishra46@gmail.com
-GitHub:Satwikmishra11
+Email:mottandeepak47@gmail.com
+GitHub:Deepak0880
